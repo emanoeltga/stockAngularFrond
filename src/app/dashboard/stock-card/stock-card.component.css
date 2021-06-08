@@ -1,7 +1,7 @@
 .stock-card-container {
     width: 21.375rem;
     height: 13.8125rem;
-    background-color: var(--secundary-color-color);
+    background-color: var(--secundary-color);
     padding: 1rem;
     margin: 1rem;
     border-radius: 4px;
